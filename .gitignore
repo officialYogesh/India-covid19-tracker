@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+# /build - Commented out to allow build folder for Vercel static deployment
 
 # misc
 .DS_Store
